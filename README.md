@@ -1,4 +1,4 @@
-# PICK-A-COLOR
+<h1 align="center">PICK-A-COLOR</h1>
 <div align="center">
 JS STUDIES: DESIGN OF A WEBSITE THAT CHANGES COLOR ON CLICK.
 <br>
